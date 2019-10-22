@@ -37,6 +37,6 @@
     </section> 
 </body>
 
-<footer><a href="#">Link 1</a></li> <a href="#">Link 2</a></li> <a href="#">Link 3</a></li>
+<footer><a href="#">Instagram</a></li> <a href="#">Facebook</a></li> <a href="#">Pinterest</a></li>
 </footer>
 </html>
