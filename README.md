@@ -11,7 +11,7 @@
 <body>
     <!-- All of the page content goes in the body-->
     <header>
-        <h1><a href="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20822506.jpg"></a></h1>
+        <h1><a href="https://media-cdn.tripadvisor.com/media/photo-s/09/f6/86/a4/caymankind.jpg"></a></h1>
             <nav>
                 <ul>
                     <!--If the website is unknown enter # or /as a placeholder, which
