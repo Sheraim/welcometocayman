@@ -16,18 +16,18 @@
                 <ul>
                     <!--If the website is unknown enter # or /as a placeholder, which
                      will just take you back to the homepage when clicked-->
-                    <li> <a href="#">Link 1</a></li>
-                    <li> <a href="#">Link 2</a></li>
-                    <li> <a href="#">Link 3</a></li>
+                    <li> <a href="#">History</a></li>
+                    <li> <a href="#">Culture</a></li>
+                    <li> <a href="#">Ecosystem</a></li>
                 </ul>
             </nav>
     </header>
     <main>
-        <img src="http://placehold.it/960x450">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXSIBuhEmkLRd7d1pG4jbj2vUDVVVmzPzzuJi__ZPkIvqE5wsJA">
          <ul>
-            <li><img src="http://placehold.it/300x150"></li>
-            <li><img src="http://placehold.it/300x150"></li>
-            <li><img src="http://placehold.it/300x150"></li>
+            <li><img src="https://media-cdn.tripadvisor.com/media/photo-s/09/f6/86/a4/caymankind.jpg"></li>
+            <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjRCqyk5jwbcCwup3Kw053miOGa7PoViNTXCgO-ZIGsIN1QFIk"></li>
+            <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_boSILt20s-pk_RUa2k4Js5xu5dXplYg46QF9AhwM4viJHKq4"></li>
          </ul>
     </main>
     <section>
