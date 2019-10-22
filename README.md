@@ -2,12 +2,16 @@
 <html>
     <!--Note: head is all of the prerequisite information about the webpage-->
     <head>
-        <title>[add favicon] Sheraim's Coffee Shop</title>
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+        <link rel="manifest" href="/site.webmanifest">
+        <title>Welcome to the Cayman Islands!</title>
     </head>
 <body>
     <!-- All of the page content goes in the body-->
     <header>
-        <h1>[My Logo]</h1>
+        <h1><a href="https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX20822506.jpg"></a></h1>
             <nav>
                 <ul>
                     <!--If the website is unknown enter # or /as a placeholder, which
